@@ -1,2 +1,1 @@
-class Post:
-    pass
+
